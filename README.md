@@ -1,7 +1,7 @@
 # Running-Data-Analysis
 Tools and Languages: SQL, SQL Server
 
-Description and Intent: This projects used SQL Server to analyse data collected from fitness devices linked with the Strava API in 2019. The dataset, obtained from Kaggle, sampled 116 amateur runners that consented to share nearly 42 000 runs. 
+Description and Intent: This project used SQL Server to analyse data collected from fitness devices linked with the Strava API in 2019. The dataset, obtained from Kaggle, sampled 116 amateur runners that consented to share nearly 42 000 runs. 
 
 Where relevant, runs were filtered to exclude those below 100 m and with times of 0 s. The dataset source claimed that it had been cleared of outliers, but initial checks highlighted running speeds vastly above the world record of 10.44 m/s set by Usain Bolt in 2009; rows yielding such speeds were filtered out where relevant. The data was then explored to investigate run distances, times and speeds; heart rates; and when runs occur during the year. SQL techniques employed included Aggregate Functions, Converting Data Types, Renaming Columns, Joins, CTEs, Case Statements, Subqueries, and Windows Functions.
 
