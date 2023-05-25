@@ -1,5 +1,5 @@
 # Running-Data-Analysis
-Tools and Languages: SQL
+Tools and Languages: SQL, SQL Server
 
 Description and Intent: This projects used SQL Server to analyse data collected from fitness devices linked with the Strava API in 2019. The dataset, obtained from Kaggle, sampled 116 amateur runners that consented to share nearly 42 000 runs. 
 
